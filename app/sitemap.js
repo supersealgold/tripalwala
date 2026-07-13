@@ -1,5 +1,5 @@
 export default function sitemap() {
-    const baseUrl = "https://tadpatri.example.com";
+    const baseUrl = "https://www.tripalwala.com/";
 
     return [
         {

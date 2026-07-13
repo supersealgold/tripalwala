@@ -12,7 +12,7 @@ const inter = Inter({
 });
 
 export const metadata = {
-  metadataBase: new URL("https://tadpatri.example.com"),
+  metadataBase: new URL("https://www.tripalwala.com"),
   title: {
     default: "Tadpatri - Premium Industrial Tarpaulin Solutions",
     template: "%s | Tadpatri",
@@ -22,7 +22,7 @@ export const metadata = {
   openGraph: {
     title: "Tadpatri - Premium Industrial Tarpaulin Solutions",
     description: "High-quality, durable, and waterproof tarpaulin sheets for all your business and industrial needs.",
-    url: "https://tadpatri.example.com",
+    url: "https://www.tripalwala.com",
     siteName: "Tadpatri",
     images: [{ url: "/og-image.jpg", width: 1200, height: 630 }],
     locale: "en_US",
