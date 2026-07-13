@@ -2,3 +2,7 @@ User-Agent: *
 Allow: /
 
 Sitemap: https://https://tripalwala.com/sitemap.xml
+User-agent: *
+Allow: /
+
+Sitemap: https://www.tripalwala.com/sitemap.xml
