@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-**FreeTram** is a freelancing project developed for a trampoline shop. This web application is built to provide an online platform for the trampoline shop business, enabling customers to browse services, make bookings, and manage their trampoline park experience seamlessly.
+**FreeTram** is a freelancing project developed for a trampoline shop. This web application is built to provide an online platform for the trampoline shop business, enabling custo mers to browse services, make bookings, and manage their trampoline park experience seamlessly.
 
 ---
 
