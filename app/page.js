@@ -3,7 +3,7 @@ import ProductShowcase from "@/sections/ProductShowcase";
 import dynamic from "next/dynamic";
 
 export const metadata = {
-  title: "Mangalam Plastics | Industrial Tarpaulin Wholesale Rates & Colors",
+  title: "Tripalwala | Industrial Tarpaulin Wholesale Rates & Colors",
   description: "Official home of Super Seal Gold Tadpatri. Premium tarpaulins available in Yellow, Gold, and Black at competitive wholesale rates. Waterproof and durable covers for all industries.",
 };
 
